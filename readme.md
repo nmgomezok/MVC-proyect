@@ -1,0 +1,1 @@
+Pequeño repo graficando cómo implementar un proyecto empleado el patrón de diseño M-V-C (Modelo, Vista, Controlador)
